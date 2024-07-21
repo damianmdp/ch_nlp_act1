@@ -1,1 +1,1 @@
-# ch_nlp_act1
+# NLP Activity 1: Text Preprocessing
